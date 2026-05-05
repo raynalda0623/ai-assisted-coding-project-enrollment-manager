@@ -26,7 +26,7 @@ Out of scope:
     - production health checks
 
 Run with:
-    python files/Module8_Enrollment_Manager_Practice/practice_enrollment_manager_backend_starter.py
+    enrollment_starter.py
 """
 
 from __future__ import annotations
